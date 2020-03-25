@@ -1,0 +1,21 @@
+name: containerd
+version: "1"
+commit_hash: ce7b29b
+uncommitted_changes: false
+jobs:
+- name: containerd
+  version: 2a880c08dc6286fc2237d1d86e07da808ea9e9c12869767ded40810b90976abd
+  fingerprint: 2a880c08dc6286fc2237d1d86e07da808ea9e9c12869767ded40810b90976abd
+  sha1: sha256:b4a2b02ac36aed378f79ea285b98e94197ea4d005f88c68f8c8c9800da0fffab
+  packages:
+  - containerd
+packages:
+- name: containerd
+  version: 43f85ccf65644740cd3791ea83eda55e3fbfcdf61c5a0103cfa22e3139b3d45f
+  fingerprint: 43f85ccf65644740cd3791ea83eda55e3fbfcdf61c5a0103cfa22e3139b3d45f
+  sha1: sha256:78ef092f2ca316e7248d92c68d11cf6a8ff92ee1208d29602a9edfe1319b8751
+  dependencies: []
+license:
+  version: 1eecb4cee707de1cbab3de8d7ac4d9ed98f0b1bb827da138d300bb76ff4c6af1
+  fingerprint: 1eecb4cee707de1cbab3de8d7ac4d9ed98f0b1bb827da138d300bb76ff4c6af1
+  sha1: sha256:47cfbc9e97e813ceba62311b22756a8426b98703cd8827e0aec5d90e5b429c17
