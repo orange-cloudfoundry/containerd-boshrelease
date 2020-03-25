@@ -2,7 +2,5 @@
 blobstore:
   provider: s3
   options:
-    bucket_name: containerd-blobs
-    region: eu-west-2
-final_name: containerd 
-
+    bucket_name: orange-containerd-boshrelease
+final_name: containerd
